@@ -1,5 +1,7 @@
 # Cryptography
 
+## Вариант 2
+
 https://github.com/Ivan-Batyanovsky/Cryptography/blob/master/Lab1/Crypto_lab1_report.pdf - отчет.
 
 https://github.com/Ivan-Batyanovsky/Cryptography/blob/master/Lab1/GCDsearch.py - поиск НОДа.
