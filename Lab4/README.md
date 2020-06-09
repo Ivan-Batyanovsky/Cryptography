@@ -4,7 +4,7 @@
 
 [Первый осмысленный текст](WarAndPeaceFull)
 
-[Второй осмысленный текст](The Brothers Karamazov)
+[Второй осмысленный текст](TheBrothersKaramazov)
 
 [Алгоритм генерации текстов](textGenNew.py)
 
