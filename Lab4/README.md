@@ -1,6 +1,12 @@
 # Cryptography
-6 sem
 
-Algorithm:
+[Отчет](Crypto_lab4_report.pdf)
 
-The function switches between multiple algorithms. Trial division quickly finds small factors (of the order 1-5 digits), and finds all large factors if given enough time. The Pollard rho and p-1 algorithms are used to find large factors ahead of time; they will often find factors of the order of 10 digits within a few seconds:
+[Первый осмысленный текст](WarAndPeaceFull)
+
+[Второй осмысленный текст](The Brothers Karamazov)
+
+[Алгоритм генерации текстов](textGenNew.py)
+
+[Задание](Лабораторная_4_критерий_открытого_текста.pdf)
+
