@@ -1,5 +1,4 @@
 # Cryptography
-6 sem
 
 [Открытый ключ](0xB38AAB6930CA730E.asc)
 
